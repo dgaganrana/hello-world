@@ -1,0 +1,6 @@
+#!/bin/python
+
+import os
+from datetime import datetime
+
+print(datetime.today())
